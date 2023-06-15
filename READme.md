@@ -2,7 +2,7 @@
 
 Guess my number is a game where the user guess the hidden random number from 1 to 20, the user is notified if he guess wrong or right
 
-An app built on the course of learning;
+An app I built on the course of learning;
 
 - fundamentals of DOM and DOM manipulations
 - events and eventlistners
